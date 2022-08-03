@@ -2,6 +2,5 @@ to see the pull from other user to my account
 
 
 this line is to check the option github console 
-
 line to see example on merge conflict
-adding one more line
+adding one more line1
